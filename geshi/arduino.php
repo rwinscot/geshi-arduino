@@ -83,7 +83,7 @@ $language_data = array (
 			'default', 'do', 'else', 'for', 'switch', 'goto'
             ),
         2 => array(
-            'null', 'false', 'break', 'true', 'function', 'enum', 'extern', 'inline', 'HIGH', 'LOW', 'INPUT', 'OUTPUT'
+            'null', 'false', 'break', 'true', 'function', 'enum', 'extern', 'inline', 'HIGH', 'LOW', 'INPUT', 'INPUT_PULLUP', 'OUTPUT'
             ),
         3 => array(
             'pinMode', 'digitalWrite', 'digitalRead', 'analogRead', 'analogWrite', 'shiftOut', 'pulseIn',
